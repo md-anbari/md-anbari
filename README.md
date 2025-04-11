@@ -42,3 +42,8 @@ public class TechStack {
     String location = "Copenhagen, Denmark";
 }
 ```
+
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-anbari-42296365/)
+- 📧 Personal: md.anbari@gmail.com
+- 💻 Work: mohammad.anbari@maersk.com
