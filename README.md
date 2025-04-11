@@ -1,90 +1,96 @@
-# Hi there! 👋 I'm Mohammad
+# Hi, I'm Mohammad 👋
 
-## 🌟 About Me
-I'm a passionate Enterprise Software Engineer based in Copenhagen, Denmark, with a deep love for building scalable solutions and exploring cutting-edge technologies.
+I'm a software engineer living and working in Copenhagen, mainly focused on building enterprise applications that are scalable, reliable, and cloud-ready.
 
-### 💻 Tech Stack
+I primarily work with Java and the Spring Boot framework — technologies I love for their robustness and flexibility. I'm passionate about microservices architecture, cloud infrastructure, and designing systems that can evolve with real-world needs.
+
+I'm also deeply interested in Artificial Intelligence, especially how Large Language Models (LLMs) and agent-based services are transforming the software landscape. I enjoy exploring how these tools can be used in real-world applications.
+
+## 🛠 What This Page Is About
+
+This GitHub page is where I share my personal projects, proof-of-concepts, and experiments — many of which I use to:
+
+- Explore new technologies in-depth
+- Prepare for real-world implementation
+- Support talks, conferences, and writing I'm involved in
+
+It's my sandbox for learning, building, and testing ideas — and I hope you find something here that inspires you too.
+
+## 💻 Tech Stack
 ```java
 public class TechStack {
-    String[] languages = {"Java", "Spring Boot"};
-    String[] cloud = {"AWS", "Azure", "GCP"};
-    String[] interests = {"Microservices", "AI/ML", "LLMs", "Agent Services"};
+    String[] primary = {
+        "Java", 
+        "Spring Boot", 
+        "Microservices"
+    };
+    
+    String[] cloud = {
+        "AWS", 
+        "Azure", 
+        "Kubernetes"
+    };
+    
+    String[] interests = {
+        "AI/ML",
+        "LLMs",
+        "Agent Services",
+        "Cloud Architecture"
+    };
+    
     String location = "Copenhagen, Denmark";
-    boolean openToCollaborate = true;
 }
 ```
 
-## 🔬 Projects & Explorations
+## 🔬 Featured Projects
 
-I maintain this GitHub profile as a knowledge-sharing platform where I:
-- 🧪 Deep dive into new technologies through practical implementations
-- 📚 Share proof-of-concepts used in conference talks
-- 🛠️ Explore cutting-edge solutions for enterprise applications
-- 🎯 Document my learning journey and findings
+### Enterprise & Cloud
+- **[native-image-poc](https://github.com/md-anbari/native-image-poc)**
+  - Exploring GraalVM native image capabilities
+  - Spring Boot optimization techniques
+  - Performance benchmarking
 
-### Featured Projects
+### AI & Automation
+- **[cursor-mcp-guide](https://github.com/md-anbari/cursor-mcp-guide)**
+  - Model Context Protocol (MCP) implementation
+  - AI agent integration patterns
+  - Developer tooling enhancement
 
-#### 🤖 AI & Cloud Native
-- **[native-image-poc](https://github.com/md-anbari/native-image-poc)**: Exploring GraalVM native image capabilities with Spring Boot
-- **[cursor-mcp-guide](https://github.com/md-anbari/cursor-mcp-guide)**: Comprehensive guide for MCP integration in modern development
+## 🎯 Current Focus Areas
 
-### Project Categories
+### Enterprise Development
+- Scalable system architecture
+- Microservices design patterns
+- Cloud-native applications
+- Performance optimization
 
-1. **Enterprise Solutions**
-   - Microservices architectures
-   - Scalable system designs
-   - Performance optimizations
-
-2. **AI Integration**
-   - LLM implementations
-   - Agent services
-   - ML model deployments
-
-3. **Cloud Native**
-   - Kubernetes deployments
-   - Cloud service integrations
-   - Infrastructure as Code
-
-## 🔥 What I'm Passionate About
-
-### Enterprise Solutions
-- Building scalable enterprise applications
-- Designing robust microservices architectures
-- Implementing high-performance systems
-- Creating efficient cloud-native solutions
-
-### AI & Future Tech
-- 🤖 Exploring AI and Large Language Models
-- 🔄 Developing intelligent agent services
-- 🧠 Integrating AI in enterprise applications
-- 🔍 Researching emerging technologies
-
-## 🛠️ Core Competencies
-- **Java & Spring Boot**: Enterprise application development
-- **Microservices**: Design patterns and implementation
-- **Cloud Platforms**: AWS, Azure, GCP
-- **AI Integration**: LLM implementation and agent services
-- **System Design**: Scalable and resilient architectures
+### AI Integration
+- LLM implementation strategies
+- Agent-based architectures
+- AI-powered developer tools
+- Practical AI use cases
 
 ## 📚 Knowledge Sharing
-- 🎤 Conference Presentations
-- ✍️ Technical Blog Posts
-- 🎓 Proof of Concept Projects
-- 🤝 Community Contributions
+I regularly share my experiences and learnings through:
+- Conference presentations
+- Technical blog posts
+- Proof-of-concept projects
+- Community contributions
 
-## 📫 Let's Connect!
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+- Enterprise architecture
+- Cloud-native development
+- AI/ML integration
+- System design
+- New technologies and innovations
+
+Feel free to reach out:
 - 💼 [LinkedIn](Your LinkedIn URL)
-- 🐦 [Twitter](Your Twitter URL)
 - 📝 [Blog](Your Blog URL)
+- 📫 [Email](your-email@domain.com)
 
 ---
 
-> "Exploring tomorrow's technology through hands-on experimentation and practical implementation."
-
-Feel free to reach out for discussions about:
-- Enterprise Architecture
-- Microservices Design
-- AI/ML Integration
-- Cloud Solutions
-- Project Collaborations
-- Or just grab a virtual coffee! ☕
+> "Building tomorrow's enterprise solutions with today's cutting-edge technology."
