@@ -21,13 +21,14 @@ It's my sandbox for learning, building, and testing ideas — and I hope you fin
 public class TechStack {
     String[] primary = {
         "Java", 
-        "Spring Boot", 
+        "Spring Boot",
+        "Kotlin",
         "Microservices"
     };
     
     String[] cloud = {
-        "AWS", 
         "Azure", 
+        "AWS", 
         "Kubernetes"
     };
     
@@ -41,56 +42,3 @@ public class TechStack {
     String location = "Copenhagen, Denmark";
 }
 ```
-
-## 🔬 Featured Projects
-
-### Enterprise & Cloud
-- **[native-image-poc](https://github.com/md-anbari/native-image-poc)**
-  - Exploring GraalVM native image capabilities
-  - Spring Boot optimization techniques
-  - Performance benchmarking
-
-### AI & Automation
-- **[cursor-mcp-guide](https://github.com/md-anbari/cursor-mcp-guide)**
-  - Model Context Protocol (MCP) implementation
-  - AI agent integration patterns
-  - Developer tooling enhancement
-
-## 🎯 Current Focus Areas
-
-### Enterprise Development
-- Scalable system architecture
-- Microservices design patterns
-- Cloud-native applications
-- Performance optimization
-
-### AI Integration
-- LLM implementation strategies
-- Agent-based architectures
-- AI-powered developer tools
-- Practical AI use cases
-
-## 📚 Knowledge Sharing
-I regularly share my experiences and learnings through:
-- Conference presentations
-- Technical blog posts
-- Proof-of-concept projects
-- Community contributions
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing:
-- Enterprise architecture
-- Cloud-native development
-- AI/ML integration
-- System design
-- New technologies and innovations
-
-Feel free to reach out:
-- 💼 [LinkedIn](Your LinkedIn URL)
-- 📝 [Blog](Your Blog URL)
-- 📫 [Email](your-email@domain.com)
-
----
-
-> "Building tomorrow's enterprise solutions with today's cutting-edge technology."
