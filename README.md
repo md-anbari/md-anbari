@@ -1,3 +1,4 @@
+👋 Hi there,
 
 I'm a software engineer living and working in Copenhagen, mainly focused on building enterprise applications that are scalable, reliable, and cloud-ready.
 
